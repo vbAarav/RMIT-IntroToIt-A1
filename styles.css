@@ -1,0 +1,57 @@
+body
+{
+    margin: 0;
+    background-color:#ffc8a1;
+}
+
+
+/*Navigation Bar*/
+.navbar
+{
+    background-color: #BDCFD9;
+    overflow: hidden;
+}
+
+.navbar a
+{
+    float: center;
+    padding: 28px 18px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #292F33;
+    text-align: center;    
+    text-decoration: none;
+    transition: 0.3s;
+
+}
+
+.navbar a:hover
+{
+    padding: 29px 20px;
+    font-size: 15px;
+    background-color: #798993;    
+}
+
+/* Website Titles */
+h1
+{
+    font-family: Arial, Helvetica, sans-serif;  
+    font-size: 24px;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 20%;  
+}
+
+/* Content */
+.content
+{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: middle;
+    background-color: #e69a63;
+    border: 3px solid #e69a63;
+    padding-bottom: 100%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
